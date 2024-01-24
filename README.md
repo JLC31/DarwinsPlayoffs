@@ -1,7 +1,7 @@
 # Darwin'sPlayoffs
 Automated Python script to update a Google Sheet with fantasy football stats for Darwin's Gridiron Fantasy League
 
-Automatically updates the playoff matchups in the Darwin's Gridiron Fantasy League with real time player fantasy points.
+Automatically updates the playoff matchups in the Darwin's Gridiron Fantasy League with real time player fantasy points. Our fantasy league has non-traditional rule sets for playoff seeding and stats keeping that Sleeper does not conform to, so this code allows me as commisioner of the league to keep track of matchups 'offline' (as in off the platform) in order to maintain league integrity and proper stat/record tracking. 
 
 After looking through the data on Sleeper.com website, I found the API that returns weekly fantasy points which is used by their website to calculate matchups. By accessing
 
